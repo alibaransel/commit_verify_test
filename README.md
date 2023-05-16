@@ -6,3 +6,5 @@ From now commits must be verified
 Another signed commit
 
 Old commit signing
+
+This change happen in dev branch
